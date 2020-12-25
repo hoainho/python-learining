@@ -1,7 +1,10 @@
-name = 'Rem Nguyen';
-name2 = 'Hoai Nho'
-Question = name.replace(name,name2)
-print(Question) 
+# name = 'Anh Da Đen';
+name = 'AAA';
+name2 = name.isupper() 
+print(name2) 
 
-
+#List 
+n = 30;
+a = [i for i in range(10)];
+print(a)
 
